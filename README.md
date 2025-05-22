@@ -1,4 +1,4 @@
-##Olá, me chamo Bruno Fernandes!
+## Olá, me chamo Bruno Fernandes!
 # Bem vindo ao meu perfil 👋
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 - 🌱 Estou procurando colaborar na área de Front-End.
