@@ -1,7 +1,5 @@
 # Olá, eu sou o Bruno Fernandes!
 ## Bem vindo ao meu perfil 👋
-<img align="right" height="140" src="https://github.com/user-attachments/assets/b857de68-6b66-4efc-af45-588888a178f2">
-
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 - 🌱 Estou procurando colaborar na área de Front-End.
 - 🏢 Atualmente estou trabalhando como BI Júnior.
