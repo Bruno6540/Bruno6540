@@ -2,7 +2,6 @@
 ## Bem vindo ao meu perfil 👋
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
 - 🌱 Estou procurando colaborar na área de Front-End.
-- 🏢 Atualmente estou trabalhando como BI Júnior.
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
