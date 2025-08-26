@@ -25,4 +25,4 @@
 </div>
 
 ## 🐍 Animação da Cobrinha
-![Snake animation](https://github.com/Bruno6540/Bruno6540/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://seu-usuario.github.io/repositorio/snake.svg)
