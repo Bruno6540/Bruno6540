@@ -46,3 +46,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/snake.svg" alt="Snake animation" />
+
+###
