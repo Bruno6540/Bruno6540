@@ -1,3 +1,13 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
 # Olá, eu sou o Bruno Fernandes!
 ## Bem vindo ao meu perfil 👋
 - 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.
@@ -6,6 +16,17 @@
 <p align="end">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px" alt="Front-end gif"/>
 </p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h2>⚒️ Ferramentas e Tecnologias</h2>
 
 <p>
@@ -36,17 +57,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bruno6540&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/snake.svg" alt="Snake animation" />
 
 ###
