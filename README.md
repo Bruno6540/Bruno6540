@@ -36,3 +36,11 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bruno6540&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph.svg">
+</picture>
