@@ -15,6 +15,8 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px" alt="Front-end gif"/>
 </p>
 
+---
+
 ###
 
 <picture>
