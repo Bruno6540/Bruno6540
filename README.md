@@ -2,6 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+---
+
 ###
 
 # Olá, eu sou o Bruno Fernandes!
@@ -21,6 +23,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruno6540/Bruno6540/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
 ###
 
 <h2>⚒️ Ferramentas e Tecnologias</h2>
@@ -29,10 +33,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,git,github,bootstrap" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-  
+
+---
+
 ## Estou Aprendendo
 <img src="https://skillicons.dev/icons?i=js,java" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+
+---
 
 ## Contatos:
 <div>
@@ -48,6 +56,8 @@
   <img height="180em" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno6540&theme=dracula"/>
 </div>
+
+---
 
 ##
 <div align="center">
